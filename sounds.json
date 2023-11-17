@@ -10,6 +10,17 @@
       "color": "#339900",
       "mp3": "sounds/patrick.mp3"
     },
+     {
+      "name": "Su Hijo Ta Viendo P###",
+      "color": "#339900",
+      "mp3": "sounds/senora.mp3"
+    },
+
+     {
+      "name": "Hub Sound",
+      "color": "#339900",
+      "mp3": "sounds/intro"
+    },
     {
       "name": "outro",
       "color": "#339900",
