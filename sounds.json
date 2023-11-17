@@ -19,7 +19,7 @@
      {
       "name": "Hub Sound",
       "color": "#339900",
-      "mp3": "sounds/intro"
+      "mp3": "sounds/intro.mp3"
     },
     {
       "name": "outro",
