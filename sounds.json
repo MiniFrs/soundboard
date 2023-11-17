@@ -6,6 +6,16 @@
       "mp3": "sounds/fart.mp3"
     },
     {
+      "name": "Mexican Music",
+      "color": "#339900",
+      "mp3": "sounds/patrick.mp3"
+    },
+    {
+      "name": "outro",
+      "color": "#339900",
+      "mp3": "sounds/outro.mp3"
+    },
+    {
       "name": "Fart with reverb",
       "color": "#694729",
       "mp3": "sounds/fart-with-reverb.mp3"
